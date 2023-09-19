@@ -12,7 +12,7 @@ Currently I am using these snippets and [JSDelivr](https://www.jsdelivr.com/gith
 
 This allows me to modularize my Styling and enable/disable styles more easily by just commenting out a link rather than having to deal with the bugs that Obsidian has where CSS styles that are toggled on will toggle off automatically when I don't want them toggled off.
 
-## Done:
+## DONE:
 - [x] [Dasboard.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Dasboard.css)
 - [x] [Active_Note.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Active_Note.css)
 - [x] [Callouts.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Callouts.css)
