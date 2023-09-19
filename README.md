@@ -13,11 +13,11 @@ Currently I am using these snippets and [JSDelivr](https://www.jsdelivr.com/gith
 This allows me to modularize my Styling and enable/disable styles more easily by just commenting out a link rather than having to deal with the bugs that Obsidian has where CSS styles that are toggled on will toggle off automatically when I don't want them toggled off.
 
 ## Done:
-- [ ] [Dasboard.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Dasboard.css)
-- [ ] [Active_Note.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Active_Note.css)
-- [ ] [Callouts.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Callouts.css)
-- [ ] [Hide_Folders.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Hide_Folders.css)
-- [ ] [Hide_Frontmatter.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Hide_Frontmatter.css)
+- [x] [Dasboard.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Dasboard.css)
+- [x] [Active_Note.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Active_Note.css)
+- [x] [Callouts.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Callouts.css)
+- [x] [Hide_Folders.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Hide_Folders.css)
+- [x] [Hide_Frontmatter.css](https://github.com/ChristopherHarwell/Obsidian-CSS/blob/main/Hide_Frontmatter.css)
 
 ## TODO:
 Use [JSDelivr](https://www.jsdelivr.com/github) to convert the following files to a CDN link and add them to `styles.css` in Obsidian
