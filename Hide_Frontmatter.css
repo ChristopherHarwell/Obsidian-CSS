@@ -1,0 +1,4 @@
+/*  Hide Frontmatter when in live preview mode */
+div.is-live-preview span.cm-hmd-frontmatter {
+  display: none;
+}

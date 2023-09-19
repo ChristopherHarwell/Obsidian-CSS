@@ -1,0 +1,16 @@
+/* Hide specific folders from the Folder View */
+
+div[data-path$="Vaults/Personal/🧠 Second Brain"],
+div[data-path$="Vaults/Personal/🧠 Second Brain"] + div.nav-folder-children {
+  display: none;
+}
+
+div[data-path$="Vaults/Reference"],
+div[data-path$="Vaults/Reference"] + div.nav-folder-children {
+  display: none;
+}
+
+div[data-path$="Vaults/Personal/+Inbox"],
+div[data-path$="Vaults/Personal/+Inbox"] + div.nav-folder-children {
+  display: none;
+}

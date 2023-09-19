@@ -1,0 +1,7 @@
+/* Custom Callouts */
+
+/* Code Snippets */
+.callout[data-callout="query"] {
+  --callout-color: 204, 255, 255;
+  --callout-icon: search;
+}
