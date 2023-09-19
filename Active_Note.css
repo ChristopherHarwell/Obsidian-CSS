@@ -1,0 +1,18 @@
+.theme-dark .workspace-leaf.mod-active .view-header {
+  border-bottom: 3px solid #ffb86c !important;
+}
+
+.theme-dark .workspace-leaf.mod-active .view-content {
+  /* background-color: rgba(162, 130, 227, 0.6196078431372549) !important; */
+  /* background-color: #81a1c1 !important; */
+  background-color: rgb(0, 43, 54) !important;
+}
+
+textarea,
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="password"],
+input[type="number"] {
+  background: inherit !important;
+}
